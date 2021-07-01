@@ -1,0 +1,11 @@
+﻿version: "3"
+services: 
+
+    helloworld:
+        build:
+            context: .
+            dockerfile: ./Dockerfile
+        restart: unless-stopped
+        container_name: helloWorld
+        ports:
+            - "7000:7000"

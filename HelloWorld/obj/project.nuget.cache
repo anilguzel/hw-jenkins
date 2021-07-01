@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEFn59FoyiKX2pZ9ePlmKH/D/m2Uo0wpZs1yVifC6Yiejkl0t/L9sYuaVPC2e5vLI7c627OpenP0Pr/OkNy0Pw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anilg\\source\\repos\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anilg\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
